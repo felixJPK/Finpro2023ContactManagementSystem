@@ -1,0 +1,8 @@
+Name,PhoneNumber,Email,Address,City,Province,FavoriteStatus
+Abdul,6283127233106,Abdul@gmail.com,None,None,None,1
+Ahmad,6283117233103,felixyahud@gmail.com,Blimbing,Malang,Jawa Timur,0
+Daniel,6283127233106,Abdul@gmail.com,None,None,None,1
+Dewan,6283117233106,kanzhamada@gmail.com,None,None,None,1
+Felix,6283117233103,felixyahud@gmail.com,Blimbing,Malang,Jawa Timur,0
+Kanz,6283117233106,kanzhamada@gmail.com,None,None,None,1
+Kanzhamada,6283117233106,kanznhamada@gmail.com,None,None,None,0
